@@ -3,3 +3,4 @@ numpy
 folium
 jupyterlab
 matplotlib
+ipywidgets
