@@ -3,3 +3,6 @@ numpy
 folium
 jupyterlab
 matplotlib
+ipywidgets
+streamlit
+streamlit-folium
