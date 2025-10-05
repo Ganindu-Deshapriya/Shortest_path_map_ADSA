@@ -110,7 +110,7 @@ This will open the app in your browser (default: [http://localhost:8501](http://
 | Algorithm     | Path (Cities)        | Distance (km) | Time (s) |
 |---------------|----------------------|---------------|----------|
 | Dijkstra      | Colombo → Kandy → … | 120.5         | 0.0723   |
-| Bellman-Ford  | Colombo → Kandy → … | 120.5         | 8.0415   |
+| Bellman-Ford  | Colombo → Kandy → … | 120.5         | 0.0965   |
 | A* Search     | Colombo → Kandy → … | 120.5         | 0.0018   |
 
 - **Map Visualization**
