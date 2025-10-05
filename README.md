@@ -1,4 +1,4 @@
-# 🗺️ Shortest Path Finding in Sri Lankan Cities
+# 🗺️ Shortest Path Finder for Sri Lankan Cities Using Graph Algorithms 
 
 ### 👥 Team Members
 - FC211004 - A.K.G.N. Deshapriya
