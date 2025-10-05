@@ -1,4 +1,11 @@
-# Shortest_path_map_ADSA# 🇱🇰 Shortest Path Finder for Sri Lankan Cities
+# 🗺️ Shortest Path Finding in Sri Lankan Cities
+
+### 👥 Team Members
+- FC211004 - A.K.G.N. Deshapriya
+- FC211036 - S.M.A.S.A. Sewwandi
+- FC211007 - H.Y.M.T.P. Wickramasinghe
+
+## 🎯 Overview
 
 This project implements a **Shortest Path Analysis Tool** for Sri Lankan cities using multiple graph algorithms.  
 It allows users to compare the performance of **Dijkstra’s Algorithm, Bellman-Ford Algorithm, and A* Search Algorithm** in finding the shortest path between two cities.  
